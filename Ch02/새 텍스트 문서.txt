@@ -1,0 +1,56 @@
+
+
+
+#include<stdio.h>
+
+#include<stdlib.h>
+
+
+
+
+
+
+
+int main()
+
+{
+
+int temp[] = {  1, , 2, 3, 4 };
+
+
+
+
+}
+
+
+
+
+
+
+
+(2)¹ø ¿¹½Ã
+
+
+
+
+
+#include<stdio.h>
+
+#include<stdlib.h>
+
+
+
+
+
+
+
+int main()
+
+{
+
+int temp[2] []= {  1, , 2, 3, 4 };
+
+
+
+
+}
